@@ -1,5 +1,5 @@
 ## References:
-  * Program Uses pygame: http://www.pygame.org/
+  * Program Uses pygame:  http://www.pygame.org/
 
   * Chess tile graphics were used from Wikimedia Commons: http://commons.wikimedia.org/wiki/File:Chess_tile_pd.png
 
